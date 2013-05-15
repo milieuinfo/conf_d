@@ -1,0 +1,2 @@
+version=3
+https://github.com/josegonzalez/beaver/tags .*/(\d+)\.tar\.gz

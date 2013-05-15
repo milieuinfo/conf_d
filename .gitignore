@@ -1,0 +1,11 @@
+*.pyc
+/LOCAL_TODO
+/build/
+
+# distutils/setuptools
+/dist/
+*egg-info
+
+# IDEs
+*.wpr
+/.idea/
