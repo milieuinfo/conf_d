@@ -1,6 +1,7 @@
 *.pyc
 /LOCAL_TODO
 /build/
+/debian/python-conf-d/
 
 # distutils/setuptools
 /dist/

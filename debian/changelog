@@ -1,3 +1,9 @@
+conf-d (0.0.3-ACD1) precise; urgency=low
+
+  * upstream new version 0.0.3
+
+ -- Serge van Ginderachter <serge@vanginderachter.be>  Thu, 23 May 2013 12:26:52 +0200
+
 conf-d (0.0.2-1) precise; urgency=low
 
   * Initial packaging
